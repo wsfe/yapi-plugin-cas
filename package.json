@@ -1,0 +1,20 @@
+{
+  "name": "yapi-plugin-cas",
+  "version": "0.0.1",
+  "description": "基于cas的yapi单点登录插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsfe/yapi-plugin-cas.git"
+  },
+  "dependencies": {
+    "request": "^2.83.0",
+    "xml2js": "^0.4.19"
+  },
+  "author": "panyx",
+  "license": "ISC",
+  "homepage": "https://github.com/wsfe/yapi-plugin-cas.git#readme"
+}
