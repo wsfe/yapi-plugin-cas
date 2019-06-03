@@ -10,7 +10,7 @@
     "options": {
       "type": "cas",
       "LOGIN_SERVER": "http://cas.example.com/cas/login",
-      "AUTH_SERVER" : "https://cas.example.com/cas/serviceValidate"
+      "AUTH_SERVER" : "https://cas.example.com/cas/serviceValidate",
       "emailPostfix": "@163.com",
     }
   }
